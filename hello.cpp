@@ -6,4 +6,5 @@ int main()
 {
 	cout<< "hello git" << endl;
 	cout<< "hihi~~" <<endl;
+	cout<< "weber" <<endl;
 }
